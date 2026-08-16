@@ -5,7 +5,7 @@
 ## 作業目標
 1. VSCode安裝：[連結](https://code.visualstudio.com/Download)
 2. VSCode Git Clone：
-- ![](/images/VSCodeGitClone.jpg)
+![](/WebSpec/images/VSCodeGitClone.jpg)
 - VSCode中間上方指令區輸入：
 ```
 >Git: Clone
