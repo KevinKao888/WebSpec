@@ -25,7 +25,7 @@ https://github.com/(GitHub名稱)/AIWeb_學號.git
 ## 評分方式
 - 完成時間：請於下次上課前完成
 - 檢查項目：
-    - [ ] 在VSCode上修改/works/work2.md：學號、姓名
+    - [ ] 在VSCode上修改/WebSpec/works/work2.md：學號、姓名
     - [ ] 在VSCode上儲存、填寫訊息、提交及推送：在GitHub上確認已同步內容
-    - [ ] 在VSCode修改/規格/簡要大綱.md：填寫每一項內容
+    - [ ] 在VSCode上修改/WebSpec/specs/簡要大綱.md：填寫每一項內容
     - [ ] 在VSCode上儲存、填寫訊息、提交及推送：在GitHub上確認已同步內容
