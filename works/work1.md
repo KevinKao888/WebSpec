@@ -24,8 +24,8 @@
     3. 建立一個新的儲存庫(Create a new repository)
     4. 命名(Repository name)為📁**WebPage_學號**
     5. 選擇可視性(visibility)為🔓**Public**
-5. 修改README.md：
-   1. 選擇儲存庫(WebSpec_學號)中的README.md檔案：
+5. 修改/WebSpec_學號/README.md：
+   1. 選擇儲存庫(WebSpec_學號)中的/README.md檔案：
    2. 點選修改(Edit this file)
    3. 修改以下欄位
       1. 學號：(開頭不含s)
@@ -33,6 +33,12 @@
       3. GitHub名稱：(在GitHub的名稱)
       4. 儲存庫名稱(Spec)：WebSpec_(學號不含s)
       5. 儲存庫名稱(Page)：WebPage_(學號不含s)
+6. 修改/WebSpec_學號/works/work1.md
+   1. 選擇儲存庫(WebSpec_學號)中的/works/work1.md檔案：
+   2. 點選修改(Edit this file)
+   3. 修改以下欄位
+      1. 學號：(開頭不含s)
+      2. 姓名：(請填寫真實姓名)
 
 ## 評分方式
 - 檢查項目：
@@ -42,4 +48,4 @@
     - [ ] 在GitHub上修改✏️**課程大綱** `/WebSpec/README.md`內容：完成所有內容
     - [ ] 在GitHub上修改✏️**第一次作業** `/WebSpec/works/work1.md`內容：學號、姓名
 > [!important]
-> 請於下次上課(**第2週**)前完成
+> 請於上課時完成，若未到課同學，請於下次上課(**第2週**)前完成
