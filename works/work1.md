@@ -14,4 +14,4 @@
     - [ ] 複製完成老師給的範本為自己的儲存庫：https://github.com/(GitHub名稱)/WebSpec_學號/
     - [ ] 將自己的儲存邀請老師成為協作者(Collaborators)：kevinkao888@gmail.com
     - [ ] 在GitHub上修改README.md內容：完成所有內容
-    - [ ] 在GitHub上修改[第一次作業](/作業/第1次作業.md)內容：學號、姓名
+    - [ ] 在GitHub上修改[第一次作業](/works/work1.md)內容：學號、姓名
