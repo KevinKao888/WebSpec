@@ -23,10 +23,8 @@
    3. 儲存檔案
    4. 在VSCode上提交及推送
       1. 版本說明：⚠️(必填)
-      2. 提交
+      2. 提交與推送
          - ![](/WebSpec/images/VSCodeCommitPush.jpg)
-      3. 推送
-      - ![](/WebSpec/images/GitSaveConfirm.jpg)
 5. VSCode修改/WebSpec/specs/outline.md
    1. 選擇資料夾(WebSpec_學號)中的/WebSpec/specs/outline.md檔案：
    2. 修改以下欄位
