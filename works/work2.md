@@ -5,10 +5,10 @@
 ## 作業目標
 1. VSCode安裝：🔗[https://code.visualstudio.com/Download](https://code.visualstudio.com/Download)
 2. VSCode Extension安裝：
-   1. Chinese (Traditional) Language Pack for Visual Studio Code
-   2. Markdown Preview Enhanced
-   3. Markdown All in One
-   4. Live Server
+   1. 中文化：Chinese (Traditional) Language Pack for Visual Studio Code
+   2. Markdown工具：
+      1. Markdown Preview Enhanced
+      2. Markdown All in One
 3. VSCode Git Clone：
 ![](/images/VSCodeGitClone.jpg)
 - VSCode中間上方指令區輸入：
