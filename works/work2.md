@@ -13,7 +13,7 @@
    1. 輸入git指令：中間上方指令區輸入🔠`>Git: Clone`
    ![](/WebSpec/images/VSCodeGitClone.jpg)
    2. 選擇從GitHub複製
-   3. 貼上網址：`https://github.com/(GitHub名稱)/AIWeb_學號.git`
+   3. 貼上網址：`https://github.com/(GitHub名稱)/WebSpec_學號.git`
    4. 選擇放置儲存庫的資料夾：`D:\Web`
 4. 在VSCode上修改/WebSpec_學號/works/work2.md
    1. 選擇資料夾(WebSpec_學號)中的/works/work2.md檔案：
@@ -21,13 +21,13 @@
       1. 學號：(開頭不含s)
       2. 姓名：(請填寫真實姓名)
    3. 儲存檔案
-5. 在VSCode上提交及推送
-   1. 版本說明：⚠️(必填)
-   2. 提交
-      - ![](/WebSpec/images/VSCodeCommitPush.jpg)
-   3. 推送
+   4. 在VSCode上提交及推送
+      1. 版本說明：⚠️(必填)
+      2. 提交
+         - ![](/WebSpec/images/VSCodeCommitPush.jpg)
+      3. 推送
       - ![](/WebSpec/images/GitSaveConfirm.jpg)
-6. VSCode修改/WebSpec/specs/outline.md
+5. VSCode修改/WebSpec/specs/outline.md
    1. 選擇資料夾(WebSpec_學號)中的/WebSpec/specs/outline.md檔案：
    2. 修改以下欄位
       1. 網站名稱：(如自創品牌咖啡店)
@@ -37,9 +37,9 @@
       5. 品牌顏色：(如藍色)
       6. 功能：(如吸引客戶消費咖啡)
    3. 儲存檔案
-7. 在VSCode上提交及推送
-   1. 版本說明：⚠️(必填)
-   2. 提交與推送
+   4. 在VSCode上提交及推送
+      1. 版本說明：⚠️(必填)
+      2. 提交與推送
 
 ## 評分方式
    - 檢查項目：
