@@ -27,7 +27,7 @@
          - ![](/WebSpec/images/VSCodeCommitPush.jpg)
 5. VSCode修改/WebSpec/specs/outline.md
    1. 選擇資料夾(WebSpec_學號)中的/WebSpec/specs/outline.md檔案：
-   2. 修改以下欄位
+   2. 修改以下欄位(請務必修改內容)
       1. 網站名稱：(如自創品牌咖啡店)
       2. 用途：(如推廣手沖咖啡)
       3. 目標受眾：(如手沖咖啡喜好者)
