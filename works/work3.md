@@ -3,9 +3,18 @@
 - 姓名：(請務必填寫)
 
 ## 作業目標
-1. 註冊AI工具：請以Google帳號或信箱註冊
-   1. Claude安裝：[連結](https://code.visualstudio.com/Download)
-3. VSCode Git Clone：![](/images/VSCodeGitClone.jpg)
+1. 註冊AI工具：
+   1. Codex：
+      1. 安裝VSCode Codex Extension
+         1. VSCode打開延伸模組：**Codex – OpenAI’s coding agent**
+         2. 使用ChatGPT登入：使用Codex需手機驗證
+      2. 安裝ChatGPT單機版[連結](https://chatgpt.com/)
+         1. 切換為Codex模式，需使用手機驗證
+   2. Claude單機版：[連結](https://claude.ai/)
+      1. 下載單機版軟體並安裝
+      2. 註冊帳號：需使用Google帳號或信箱註冊(需收驗證信)
+      3. 設定FileSystem Extension
+2. VSCode Git Clone：![](/images/VSCodeGitClone.jpg)
    - VSCode中間上方指令區輸入：
 ```
 >Git: Clone
