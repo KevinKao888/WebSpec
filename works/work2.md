@@ -11,7 +11,7 @@
       2. Markdown All in One
 3. VSCode Git Clone：
    1. 輸入git指令：中間上方指令區輸入🔠`>Git: Clone`
-   ![alt text](image.png)
+   ![alt text](../images/image.png)
    2. 選擇從GitHub複製
    3. 貼上網址：`https://github.com/(GitHub名稱)/WebSpec_學號.git`
    4. 選擇放置儲存庫的資料夾：`D:\Web`
@@ -24,7 +24,7 @@
    4. 在VSCode上提交及推送
       1. 版本說明：⚠️(必填)
       2. 提交與推送
-         - ![](/WebSpec/images/VSCodeCommitPush.jpg)
+         - ![](../images/VSCodeCommitPush.jpg)
 5. VSCode修改/WebSpec/specs/outline.md
    1. 選擇資料夾(WebSpec_學號)中的/WebSpec/specs/outline.md檔案：
    2. 修改以下欄位(請務必修改內容)
