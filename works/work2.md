@@ -40,7 +40,7 @@
       2. 提交與推送
 
 ## 評分方式
-   - 檢查項目：
+   - 檢查項目：完成後請打勾
      - [ ] 在VSCode上修改/WebSpec/works/work2.md：學號、姓名
      - [ ] 在VSCode上儲存、填寫訊息、提交及推送：在GitHub上確認已同步內容
      - [ ] 在VSCode上修改/WebSpec/specs/簡要大綱.md：填寫每一項內容

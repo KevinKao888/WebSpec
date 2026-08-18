@@ -41,7 +41,7 @@
       2. 姓名：(請填寫真實姓名)
 
 ## 評分方式
-- 檢查項目：
+- 檢查項目：完成後請打勾
     - [ ] 複製儲存庫📁**WebSpec**範本為：https://github.com/(GitHub名稱)/WebSpec_學號/
       - [ ] 將儲存庫**WebSpec_學號**邀請老師成為協作者(**Collaborators**)：😊`kevinkao888@gmail.com`
     - [ ] 複製儲存庫📁**WebPage**範本為：https://github.com/(GitHub名稱)/WebPage_學號/
