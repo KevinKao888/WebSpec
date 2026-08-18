@@ -11,7 +11,7 @@
       2. Markdown All in One
 3. VSCode Git Clone：
    1. 輸入git指令：中間上方指令區輸入🔠`>Git: Clone`
-   ![](/WebSpec/images/VSCodeGitClone.jpg)
+   ![alt text](image.png)
    2. 選擇從GitHub複製
    3. 貼上網址：`https://github.com/(GitHub名稱)/WebSpec_學號.git`
    4. 選擇放置儲存庫的資料夾：`D:\Web`
