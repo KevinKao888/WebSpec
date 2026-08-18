@@ -3,7 +3,16 @@
 - 姓名：(請務必填寫)
 
 ## 作業目標
-1. 註冊AI工具：
+1. VSCode複製GitHub上2個儲存庫Repo
+   1. 在電腦建立資料夾：D:\Web
+      1. 目的為存放以下2個Repo
+   2. 由GitHub複製Repo：WebSpec_學號
+      1. GitHub網址：https://github.com/(GitHub名稱)/WebSpec_學號
+      2. 存放資料夾：D:\Web
+   3. 由GitHub複製Repo：WebPage_學號
+      1. GitHub網址：https://github.com/(GitHub名稱)/WebPage_學號
+      2. 存放資料夾：D:\Web
+2. 註冊AI工具：
    1. Codex：
       1. 安裝VSCode Codex Extension
          1. VSCode打開延伸模組：**Codex – OpenAI’s coding agent**
@@ -14,20 +23,10 @@
       1. 下載單機版軟體並安裝
       2. 註冊帳號：需使用Google帳號或信箱註冊(需收驗證信)
       3. 設定FileSystem Extension
-2. VSCode Git Clone：![](/images/VSCodeGitClone.jpg)
-   - VSCode中間上方指令區輸入：
-```
->Git: Clone
-```
-   - 選擇從GitHub複製
-   - 貼上網址：
-```
-https://github.com/(GitHub名稱)/AIWeb_學號.git
-```
-1. VSCode修改/作業/第3次作業.md：學號、姓名
-2. VSCode上儲存、✅*填寫訊息*、提交及推送
-3. VSCode修改[簡要大綱](/規格/簡要大綱.md)：填寫每一項內容
+3. VSCode修改/作業/第3次作業.md：學號、姓名
 4. VSCode上儲存、✅*填寫訊息*、提交及推送
+5. VSCode修改[簡要大綱](/規格/簡要大綱.md)：填寫每一項內容
+6. VSCode上儲存、✅*填寫訊息*、提交及推送
 
 ## 評分方式
 - 完成時間：請於下次上課前完成
