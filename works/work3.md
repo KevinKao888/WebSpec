@@ -28,7 +28,7 @@
    2. 填寫版本說明，並提交及推送
 4. 使用AI工具製作網頁
    1. 開啟AI工具視窗或單機版程式
-   2. 使用VSCode + Codex Extension製作網頁
+   2. VSCode + Codex Extension製作網頁
       1. 使用VSCode開啟/WebSpec_學號/specs/outline.md
       2. 開啟Codex側邊對話框，輸入以下提示詞
          ```htm
@@ -40,13 +40,25 @@
    3. 檢查/WebPage/outline/index.html網頁內容
    4. 以瀏覽器或Live Server Extension檢視網頁
 5. 在VSCode將資料夾/WebPage/outline上傳至GitHub
-6. 
+6. 微調優化網頁大綱規格，重新生成網頁
+   1. 使用VSCode開啟/WebSpec_學號/specs/refined.md
+   2. 使用AI工具生成/WebPage/refined/index.html網頁內容
+   3. 檢查/WebPage/outline/index.html網頁內容，並以瀏覽器檢視網頁
+7. 使用AI工具逆向製作網頁規格
+   1. VSCode + Codex Extension製作網頁規格
+      1. 使用VSCode開啟/WebPage_學號/outline/index.html
+      2. 開啟Codex側邊對話框，輸入以下提示詞
+         ```htm
+         請依據目前開啟的網頁檔案，讀取內容逆向製作一個完整網頁規格Markdown文件，並儲存以下檔案：WebSpec/specs/detail.md中，以便更精確修改規格來製作網頁
+         ```
+      3. 檢查/WebSpec/specs/detail.md網頁規格
+      4. 以VSCode側邊預覽Markdown網頁規格
 
 ## 評分方式
 - 檢查項目：完成後請打勾
-    - [ ] 在VSCode上修改/作業/第3次作業.md：學號、姓名
-    - [ ] 在VSCode上儲存、填寫訊息、提交及推送：在GitHub上確認已同步內容
-    - [ ] 在VSCode修改/規格/簡要大綱.md：填寫每一項內容
-    - [ ] 在VSCode上儲存、填寫訊息、提交及推送：在GitHub上確認已同步內容
+    - [ ] 在VSCode上修改/作業/第3次作業.md：填寫學號、姓名，並同步於在GitHub上
+    - [ ] 在VSCode使用AI工具生成/WebPage/outline/index.html網頁，並同步於在GitHub上
+    - [ ] 在VSCode使用AI工具生成/WebPage/refined/index.html網頁，並同步於在GitHub上
+    - [ ] 在VSCode使用AI工具生成/WebSpec/specs/detail.md網頁規格，並同步於在GitHub上
 > [!important]
 > 請於上課時完成，若未到課同學，請於下次上課(**第4週**)前完成
