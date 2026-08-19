@@ -39,8 +39,6 @@
          2. 請將變更權限方式改為：代為核准
    3. 檢查/WebPage/outline/index.html網頁內容
    4. 以瀏覽器或Live Server Extension檢視網頁
-5. VSCode修改[簡要大綱](/規格/簡要大綱.md)：填寫每一項內容
-6. VSCode上儲存、✅*填寫訊息*、提交及推送
 
 ## 評分方式
 - 檢查項目：完成後請打勾
