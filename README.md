@@ -26,8 +26,8 @@ GitHub名稱：(在GitHub的名稱)
 | 週 (日期) | 目標 | 作業(@4%) | 報告(@20%) |
 |----:|----------|:------:|:---:|
 |  1週 (09/17) | GitHub、Respository、Collaborators | 第1次 |
-|  2週 (09/24) | VSCode、Git Clone、Commit、Push | 第2次 |
-|  3週 (10/01) | Claude/ChatGPT/Gemini、Web Spec、FileSystem | 第3次 |
+|  2週 (09/24) | VSCode、Git Clone、Commit、Push、Pull | 第2次 |
+|  3週 (10/01) | Codex/Claude/Gemini、Web Spec->Page | 第3次 |
 |  4週 (10/08) | Nav、Section、GitHub Pages| 第4次 |
 |  5週 (10/15) | Components、報告說明 | 第5次 |
 |  6週 (10/22) | 期中報告、Demo 1 (01-15) | | 第1次 |

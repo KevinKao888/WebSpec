@@ -39,6 +39,8 @@
          2. 請將變更權限方式改為：代為核准
    3. 檢查/WebPage/outline/index.html網頁內容
    4. 以瀏覽器或Live Server Extension檢視網頁
+5. 在VSCode將資料夾/WebPage/outline上傳至GitHub
+6. 
 
 ## 評分方式
 - 檢查項目：完成後請打勾
