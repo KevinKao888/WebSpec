@@ -17,8 +17,7 @@
 3. 修改/WebSpec_學號/specs/onepage.md
    1. 修改導覽列規格，至少1個字以上
    2. 修改hero區域，至少1個字以上
-   3. 修改其中1個section區域，至少1個字以上
-   4. 修改footer區域，至少1個字以上
+   3. 修改footer區域，至少1個字以上
 4. 在VSCode將檔案/WebSpec_學號/specs/onepage.md上傳至GitHub
 5. 使用AI工具製作網頁
    1. 開啟AI工具視窗或單機版程式(以下以Codex為例)
