@@ -92,7 +92,7 @@ header#top
    ├─ 品牌連結（品牌圓形 B 標記、藍天咖啡、BLUE SKY COFFEE）
    ├─ 手機版選單按鈕
    └─ 導覽連結
-      ├─ #story　我們的堅持
+      ├─ #story　我們的故事
       ├─ #coffee　本季選豆
       ├─ #brew　沖煮日常
       └─ #visit　訂閱風味通信（外框 CTA）
@@ -121,10 +121,10 @@ header#top
 - Eyebrow：`HAND BREWED · SLOWLY ROASTED`
 - H1：`讓風味，在藍天下慢慢抵達。`
   - 「藍天」使用 `--sky`。
-- 說明：`藍天咖啡為喜歡手沖的你，挑選值得細品的單一產區咖啡豆。從第一縷花香，到最後一口回甘，每一杯都有自己的晴朗天氣。`
-- 主按鈕：`探索本季風味 →`，連至 `#coffee`，沙金底深藍字。
+- 說明：`藍天咖啡為喜歡手沖的您，挑選值得細品的單一產區咖啡豆。從第一縷花香，到最後一口回甘，每一杯都有屬於自己的晴朗天氣。`
+- 主按鈕：`探索本季咖啡豆 →`，連至 `#coffee`，沙金底深藍字。
 - 次按鈕：`認識藍天`，連至 `#story`，白色描邊。
-- 註記：`TAIPEI · TAIWAN · EST. 2018`
+- 註記：`TAIPEI · TAIWAN · EST. 2025`
 - 插畫旁標示：`92°C`／`理想水溫`／`細細喚醒香氣`。
 - 左下角捲動提示：`SCROLL TO DISCOVER`，前有 38px 細線。
 
@@ -216,9 +216,9 @@ header#top
 | 欄位 | 內容 |
 |---|---|
 | 品牌欄 | 品牌標記、`藍天咖啡 / BLUE SKY COFFEE`，以及「為喜愛手沖咖啡的你，留下一段慢慢品味、微微放晴的時間。」 |
-| Explore | `我們的堅持`、`本季選豆`、`沖煮日常`，均為頁內錨點 |
-| Contact | `hello@bluesky.coffee`、`台北市大安區晴朗路 18 號`、`每日 10:00 — 19:00` |
-| 底列 | `© 2026 BLUE SKY COFFEE. ALL RIGHTS RESERVED.` 與 `BREW SLOW · LIVE BRIGHT` |
+| 網站主題 | `我們的故事`、`本季選豆`、`沖煮日常`，均為頁內錨點 |
+| 聯絡我們 | `hello@bluesky.coffee`、`台中市西屯區僑光路 100 號`、`每日 10:00 — 19:00` |
+| 底列 | `© 2025 BLUE SKY COFFEE. ALL RIGHTS RESERVED.` 與 `BREW SLOW · LIVE BRIGHT` |
 
 Footer 背景為更深的 `#031c31`，主要文字為低透明白，欄位標題使用天空藍、11px 與較大字距。
 
