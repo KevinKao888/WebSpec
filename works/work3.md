@@ -59,10 +59,6 @@
     - [ ] 在VSCode使用AI工具以outline.md生成/WebPage/outline/index.html網頁，並同步於在GitHub上
     - [ ] 在VSCode使用AI工具以refined.md生成/WebPage/refined/index.html網頁，並同步於在GitHub上
     - [ ] 在VSCode使用AI工具以index.html逆向生成/WebSpec/specs/detail.md網頁規格，並同步於在GitHub上
-    - [ ] 將以上檔案，同步於GitHub上
-      - [ ] /works/work3.md
-      - [ ] /WebPage/outline/index.html
-      - [ ] /WebPage/refined/index.html
     - [ ] 在GitHub上確認以上檔案是否完全同步內容
 > [!important]
 > 請於上課時完成，若未到課同學，請於下次上課(**第4週**)前完成
