@@ -29,7 +29,7 @@
          ```
    3. 檢查/WebPage_學號/**onepage**/index.html網頁內容
    4. 以瀏覽器或Live Server Extension檢視網頁
-6. 在VSCode將資料夾/WebPage_學號/outline上傳至GitHub
+6. 在VSCode將資料夾/WebPage_學號/onepage上傳至GitHub
    
 ## 評分方式
 - 檢查項目：完成後請打勾
