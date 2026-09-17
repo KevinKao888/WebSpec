@@ -18,7 +18,7 @@
     3. 點選協作者(Collaborators)
     4. 點選新增人(Add people)
     5. 填入老師信箱成為協作者：😊**kevinkao888@gmail.com**
-4. 複製WebSpec：
+4. 複製WebPage：
     1. 結網址為🔗[https://github.com/KevinKao888/WebPage/](https://github.com/KevinKao888/WebPage/)
     2. 使用範本(use this template)
     3. 建立一個新的儲存庫(Create a new repository)
