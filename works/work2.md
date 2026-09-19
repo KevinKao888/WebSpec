@@ -9,6 +9,10 @@
    2. Markdown工具：
       1. Markdown Preview Enhanced
       2. Markdown All in One
+   3. AI工具：
+      1. Google Antigravity
+      2. Codex - OpenAI's coding agent
+   4. 網頁瀏覽工具：Live Server
 3. Git for Windows安裝：
    1. 下載軟體：[下載](https://github.com/git-for-windows/git/releases/download/v2.55.0.windows.5/Git-2.55.0.5-64-bit.exe)
    2. 安裝軟體：請直接按下一步，以預設值安裝
