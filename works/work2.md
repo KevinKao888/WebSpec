@@ -7,7 +7,9 @@
 
 ## 作業目標
 
-### 一、VSCode安裝：🔗[https://code.visualstudio.com/Download](https://code.visualstudio.com/Download)
+### 一、VSCode安裝：
+![](../images/Visual_Studio_Code.png)
+1. 🔗[下載](https://code.visualstudio.com/Download)
 
 ### 二、VSCode Extension安裝：
 1. 中文化：Chinese (Traditional) Language Pack for Visual Studio Code
@@ -24,7 +26,7 @@
 2. 安裝軟體：請直接按下一步，以預設值安裝
   
 > [!hint]
-> 以上三個安裝步驟，為了上課方便請下載並執行：[下載並以系統管理員執行](https://ocu.tw/download/VSCodeAI.exe)
+> 以上三個安裝步驟，為了上課方便，請下載一鍵安裝：[下載並以系統管理員執行](https://ocu.tw/download/VSCodeAI.exe)
 
 ### 四、VSCode Git Clone：
 1. 輸入git指令：中間上方指令區輸入🔠`>Git: Clone`
