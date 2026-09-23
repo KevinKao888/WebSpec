@@ -25,8 +25,8 @@ GitHub名稱：(在GitHub的名稱)
 
 | 週 (日期) | 目標 | 評分方式 
 |----:|----------|:------:|
-|  1週 (09/17) | GitHub、Repository、Collaborators | 第1次作業(3%)、課堂參與(2%) 
-|  2週 (09/24) | VSCode、Git Clone、Commit、Push、Pull | 第2次作業(3%)、課堂參與(2%)
+|  1週 (09/17) | GitHub、Repository、Collaborators | [第1次作業](works/work1.md)(3%)、課堂參與(2%) 
+|  2週 (09/24) | VSCode、Git Clone、Commit、Push、Pull | [第2次作業](works/work2.md)(3%)、課堂參與(2%)
 |  3週 (10/01) | AI工具、簡易規格->網頁->詳細規格 | 第3次作業(3%)、課堂參與(2%)
 |  4週 (10/08) | 詳細規格一(網頁架構)：Navbar、Hero、Section、Footer | 第4次作業(3%)、課堂參與(2%)
 |  5週 (10/15) | 詳細規格二(內容與元件)：Heading、Text、Image、Card、Button | 第5次作業(3%)、課堂參與(2%)
