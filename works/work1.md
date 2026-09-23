@@ -8,6 +8,7 @@
 ## 作業目標
 
 ### 一、GitHub註冊與登入：
+![](../images/GitHub.png)
 1. 註冊(Sign up)：[https://github.com/signup](https://github.com/signup)
 2. 登入(Sign in)：[https://github.com/signin](https://github.com/signin)
 
