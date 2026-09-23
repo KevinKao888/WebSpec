@@ -25,7 +25,7 @@
 1. 下載軟體：[下載](https://github.com/git-for-windows/git/releases/download/v2.55.0.windows.5/Git-2.55.0.5-64-bit.exe)
 2. 安裝軟體：請直接按下一步，以預設值安裝
   
-> [!hint]
+> [!tip]
 > 以上三個安裝步驟，為了上課方便，請下載一鍵安裝：[下載並以系統管理員執行](https://ocu.tw/download/VSCodeAI.exe)
 
 ### 四、VSCode Git Clone：
