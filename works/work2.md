@@ -32,7 +32,7 @@
 git clone https://github.com/(GitHub名稱)/WebSpec_學號
 ```
 
-### 三、在VSCode上修改/WebSpec_學號/works/work2.md
+### 三、在VSCode上修改 work2.md
 1. 選擇資料夾(WebSpec_學號)中的/works/work2.md檔案：
 2. 修改以下欄位
    1. 學號：(開頭不含s)
@@ -52,8 +52,8 @@ git clone https://github.com/(GitHub名稱)/WebSpec_學號
    2. 提交與推送
       ![](../images/VSCodeCommitPush.jpg)
 
-### 四、VSCode修改/WebSpec/specs/outline.md
-1. 選擇資料夾(WebSpec_學號)中的/WebSpec/specs/outline.md檔案：
+### 四、VSCode修改 outline.md
+1. 選擇資料夾(WebSpec_學號)中的/specs/outline.md檔案：
 2. 修改以下欄位(請務必修改內容)
    1. 網站名稱：(如自創品牌咖啡店)
    2. 用途：(如推廣手沖咖啡)
