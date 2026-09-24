@@ -42,8 +42,8 @@
    2. 姓名：(請填寫真實姓名)
 3. 儲存檔案
 4. 開啟終端機
-   1. git config --global user.email (EMail信箱)
-   2. git config --global user.name (GitHub使用者帳號)
+   1. git config --global user.email EMail信箱
+   2. git config --global user.name GitHub使用者帳號
 5. 在VSCode上提交及推送
    1. 版本說明：⚠️(必填)
    2. 提交與推送
