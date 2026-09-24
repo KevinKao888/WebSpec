@@ -10,10 +10,10 @@
 ### 一、VSCode + Extensions + Git 使用一鍵安裝：
 1. 請於以下連結下載後，並**以系統管理員身分執行**：[下載](https://ocu.tw/download/VSCodeAI.exe)
 - 請參考以下載圖執行：點擊檔案後按右鍵，選擇以系統管理員身分執行
-![](../images/以系統管理員身分執行.png)
+   ![](../images/以系統管理員身分執行.png)
 - 此一鍵安裝檔，包括以下內容
    1. VSCode：Visual Studio Code 
-![](../images/Visual_Studio_Code.png)
+   ![](../images/Visual_Studio_Code.png)
    2. VSCode Extensions
       1. 中文化：Chinese (Traditional) Language Pack for Visual Studio Code
       2. Markdown工具：
