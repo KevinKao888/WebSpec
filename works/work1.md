@@ -56,8 +56,8 @@
 - [ ] 複製儲存庫📁**WebSpec**範本為：https://github.com/(GitHub名稱)/WebSpec_學號/
 - [ ] 將儲存庫**WebSpec_學號**邀請老師成為協作者(**Collaborators**)：😊`kevinkao888@gmail.com`
 - [ ] 複製儲存庫📁**WebPage**範本為：https://github.com/(GitHub名稱)/WebPage_學號/
-- [ ] 在GitHub上修改✏️**課程大綱** `/WebSpec/README.md`內容：完成所有內容
-- [ ] 在GitHub上修改✏️**第一次作業** `/WebSpec/works/work1.md`內容：學號、姓名
+- [ ] 在GitHub上修改✏️**課程大綱** `/WebSpec_學號/README.md`內容：完成所有內容
+- [ ] 在GitHub上修改✏️**第一次作業** `/WebSpec_學號/works/work1.md`內容：學號、姓名
 
 > [!important]
 > 請於上課時完成，若未到課同學，請於下次上課(**第2週**)前完成
