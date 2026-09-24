@@ -7,35 +7,30 @@
 
 ## 作業目標
 
-### 一、VSCode安裝：
+### 一、VSCode + Extensions + Git 使用一鍵安裝：
+1. 請於以下連結下載後，並**以系統管理員身分執行**：[下載](https://ocu.tw/download/VSCodeAI.exe)
+![](../images/以系統管理員身分執行.png)
+   1. VSCode：Visual Studio Code 
 ![](../images/Visual_Studio_Code.png)
-1. 🔗[下載](https://code.visualstudio.com/Download)
+   2. VSCode Extensions
+      1. 中文化：Chinese (Traditional) Language Pack for Visual Studio Code
+      2. Markdown工具：
+         1. Markdown Preview Enhanced
+         2. Markdown All in One
+      3. AI工具：
+         1. Google Antigravity
+         2. Codex - OpenAI's coding agent
+      4. 網頁瀏覽工具：Live Server
+   3. Git for Windows
 
-### 二、VSCode Extension安裝：
-1. 中文化：Chinese (Traditional) Language Pack for Visual Studio Code
-2. Markdown工具：
-   1. Markdown Preview Enhanced
-   2. Markdown All in One
-3. AI工具：
-   1. Google Antigravity
-   2. Codex - OpenAI's coding agent
-4. 網頁瀏覽工具：Live Server
+### 二、VSCode Git Clone：
+1. 選擇放置儲存庫的資料夾：`D:\Web`
+2. 開啟終端機，輸入git指令：
+```shell
+git clone https://github.com/(GitHub名稱)/WebSpec_學號
+```
 
-### 三、Git for Windows安裝：
-1. 下載軟體：[下載](https://github.com/git-for-windows/git/releases/download/v2.55.0.windows.5/Git-2.55.0.5-64-bit.exe)
-2. 安裝軟體：請直接按下一步，以預設值安裝
-  
-> [!tip]
-> 以上三個安裝步驟，為了上課方便，請下載一鍵安裝：[下載並以系統管理員執行](https://ocu.tw/download/VSCodeAI.exe)
-
-### 四、VSCode Git Clone：
-1. 輸入git指令：中間上方指令區輸入🔠`>Git: Clone`
-![alt text](../images/image.png)
-1. 選擇從GitHub複製
-2. 貼上網址：`https://github.com/(GitHub名稱)/WebSpec_學號.git`
-3. 選擇放置儲存庫的資料夾：`D:\Web`
-
-### 五、在VSCode上修改/WebSpec_學號/works/work2.md
+### 三、在VSCode上修改/WebSpec_學號/works/work2.md
 1. 選擇資料夾(WebSpec_學號)中的/works/work2.md檔案：
 2. 修改以下欄位
    1. 學號：(開頭不含s)
@@ -49,7 +44,7 @@
    2. 提交與推送
       ![](../images/VSCodeCommitPush.jpg)
 
-### 六、VSCode修改/WebSpec/specs/outline.md
+### 四、VSCode修改/WebSpec/specs/outline.md
 1. 選擇資料夾(WebSpec_學號)中的/WebSpec/specs/outline.md檔案：
 2. 修改以下欄位(請務必修改內容)
    1. 網站名稱：(如自創品牌咖啡店)
