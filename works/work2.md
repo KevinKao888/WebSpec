@@ -27,9 +27,10 @@
 
 ### 二、VSCode Git Clone：
 1. 選擇放置儲存庫的資料夾：`D:\Web`
-2. 開啟終端機，輸入git指令
+2. GitHub網址：https://github.com/(GitHub名稱)/WebSpec_學號
+3. 開啟終端機，輸入git指令
 ```shell
-git clone https://github.com/(GitHub名稱)/WebSpec_學號
+git clone [貼上網址]
 ```
 
 ### 三、在VSCode上修改 work2.md
