@@ -23,7 +23,8 @@
 
 ### 二、註冊AI工具：
 1. Google Antigravity：
-   1. 
+   1. Sign in：Continue with Google
+![](../images/AntigravitySignin.png)
 2. Codex：
    1. 安裝VSCode Codex Extension
       1. VSCode打開延伸模組：**Codex – OpenAI’s coding agent**
