@@ -1,7 +1,8 @@
 # 第1次作業(3%)
-- 學號：(請務必填寫)
-- 姓名：(請務必填寫)
-- 信箱：(請務必填寫)
+- 學號：11515143
+- 姓名：彭景詮
+- 信箱：jingquanpeng4@gmail.com
+
 
  ![](../images/week1-1.png)
 
@@ -58,11 +59,9 @@
 ## 評分方式
 
 ### 檢查項目：完成後請打勾
-- [ ] 複製儲存庫📁**WebSpec**範本為：https://github.com/(GitHub名稱)/WebSpec_學號/
-- [ ] 將儲存庫**WebSpec_學號**邀請老師成為協作者(**Collaborators**)：😊`kevinkao888@gmail.com`
-- [ ] 複製儲存庫📁**WebPage**範本為：https://github.com/(GitHub名稱)/WebPage_學號/
-- [ ] 在GitHub上修改✏️**課程大綱** `/WebSpec_學號/README.md`內容：完成所有內容
-- [ ] 在GitHub上修改✏️**第一次作業** `/WebSpec_學號/works/work1.md`內容：學號、姓名
+- [ˇ ] 複製儲存庫📁**WebSpec**範本為：https://github.com/(GitHub名稱)/WebSpec_學號/
+- [ˇ ] 將儲存庫**WebSpec_學號**邀請老師成為協作者(**Collaborators**)：😊`kevinkao888@gmail.com`
+- [ ˇ] 複製儲存庫📁**WebPage**範本為：https://github.com/(GitHub名稱)/WebPage_學號/ˇ ] 在GitHub上修改✏️**第一次作業** `/WebSpec_學號/works/work1.md`內容：學號、姓名
 
 > [!important]
 > 請於上課時完成，若未到課同學，請於下次上課(**第2週**)前完成
