@@ -3,6 +3,8 @@
 - 姓名：(請務必填寫)
 - 信箱：(請務必填寫)
 
+![](../images/week4-1.png)
+
 ## 作業目標
 ### 一、VSCode + Extensions + Git 使用一鍵安裝：
 1. 請於以下連結下載後，並**以系統管理員身分執行**：[下載](https://ocu.tw/download/VSCodeAI.exe)
@@ -12,11 +14,11 @@
 2. 開啟終端機，輸入git指令
 - 請將EMail信箱更換為GitHub的申請信箱
 ```shell
-git config --global user.email EMail信箱
+git config --global user.email [輸入EMail信箱]
 ```
 - 請將GitHub帳號更換為GitHub帳號
 ```shell
-git config --global user.name GitHub帳號
+git config --global user.name [輸入GitHub帳號]
 ```
 3. 由GitHub複製Repo：WebSpec_學號
 - GitHub網址：https://github.com/(GitHub名稱)/WebSpec_學號
