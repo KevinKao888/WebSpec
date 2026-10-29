@@ -53,14 +53,15 @@ git clone [貼上WebPage網址]
 
 ### 六、使用AI工具製作網頁
 1. 開啟AI工具視窗或單機版程式(以下以Codex為例)
-2. VSCode + Codex Extension製作網頁
+2. 刪除/WebPage_學號/onepage3/index.html檔案
+3. VSCode + Codex Extension製作網頁
    1. 使用VSCode開啟/WebSpec_學號/specs/onepage3.md
    2. 開啟Codex側邊對話框，輸入以下提示詞
       ```htm
       請依據目前開啟的內容為網頁規格，製作一個網頁index.html，並儲存於資料夾：WebPage_學號/onepage3/中
       ```
-3. 檢查/WebPage_學號/onepage3/index.html網頁內容
-4. 以瀏覽器或Live Server Extension檢視網頁
+4. 檢查/WebPage_學號/onepage3/index.html網頁內容
+5. 以瀏覽器或Live Server Extension檢視網頁
 
 ### 七、在VSCode將資料夾/WebPage_學號/onepage3上傳至GitHub
    
