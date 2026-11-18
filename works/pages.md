@@ -121,19 +121,19 @@
 
 ### 四、使用 AI 生成三頁網站
 
-1. 使用 VS Code 開啟 WebSpec_學號/specs/sitemap.md。
+1. 使用 VS Code 開啟 WebSpec_學號/pages/sitemap.md。
 2. 開啟 AI 側邊對話框。
 3. 將以下提示詞中的「學號」換成自己的學號，再送出：
 
 ```text
-請讀取 WebSpec_學號/specs/sitemap.md，
+請讀取 WebSpec_學號/pages/sitemap.md，
 依據網站架構、風格方向與各頁大綱建立三頁靜態網站。
 
 請先確認實際資料夾，建立：
-- WebPage_學號/multipage/index.html
-- WebPage_學號/multipage/about.html
-- WebPage_學號/multipage/contact.html
-- WebPage_學號/multipage/assets/css/site.css
+- WebPage_學號/pages/index.html
+- WebPage_學號/pages/about.html
+- WebPage_學號/pages/contact.html
+- WebPage_學號/pages/assets/css/site.css
 
 如有需要，建立 assets/js/site.js 及 assets/images/ 下的本地佔位圖。
 
@@ -168,27 +168,27 @@
 1. 在 AI 對話框輸入以下提示詞，並替換學號：
 
 ```text
-請讀取 WebPage_學號/multipage/ 下的三頁 HTML、
+請讀取 WebPage_學號/pages/ 下的所有 HTML、
 共用 CSS 及 JavaScript，依實際完成的網站逆向整理詳細規格。
 
 請建立：
-1. WebSpec_學號/specs/site.md
+1. WebSpec_學號/pages/site.md
    記錄實際色碼、字體、字級、字重、行高、版面寬度、
    間距、導覽列、頁尾、按鈕、卡片、手機版及共用互動規則。
    包含共用檔案位置與各頁規格索引。
 
-2. WebSpec_學號/specs/pages/home.md
+2. WebSpec_學號/pages/index.md
    記錄 index.html 的詳細規格。
 
-3. WebSpec_學號/specs/pages/about.md
+3. WebSpec_學號/pages/about.md
    記錄 about.html 的詳細規格。
 
-4. WebSpec_學號/specs/pages/contact.md
+4. WebSpec_學號/pages/contact.md
    記錄 contact.html 的詳細規格。
 
 各頁規格須記錄：
 - 對應 HTML 的輸出位置
-- 依循 ../site.md 的說明
+- 依循 site.md 的說明
 - 區塊順序、實際文字、圖片路徑與替代文字
 - 排列方式、按鈕、連結目的地、互動及手機版呈現
 
@@ -212,16 +212,16 @@
 
 ### 七、修改分頁規格，再更新網頁
 
-1. 開啟 WebSpec_學號/specs/pages/about.md。
+1. 開啟 WebSpec_學號/pages/index.md。
 2. 自行修改至少一段文字，並新增一個內容區塊，例如團隊介紹或品牌理念。
 3. 儲存規格檔案。
 4. 在 AI 對話框輸入：
 
 ```text
-我已修改 WebSpec_學號/specs/pages/about.md。
-請先讀取 WebSpec_學號/specs/site.md，
-再比對更新後的 about.md 與
-WebPage_學號/multipage/about.html，
+我已修改 WebSpec_學號/pages/index.md。
+請先讀取 WebSpec_學號/pages/site.md，
+再比對更新後的 index.md 與
+WebPage_學號/pages/index.html，
 依新規格更新原本網頁，只修改有差異的部分。
 
 沿用共用風格；若需新增專屬樣式，限定其作用範圍。
@@ -230,17 +230,17 @@ WebPage_學號/multipage/about.html，
 ```
 
 5. 重新預覽，確認新增區塊及文字已更新。
-6. 此次直接更新 about.html，不必另存 about2.html。
+6. 此次直接更新 index.html，不必另存 index2.html。
 
 ### 八、練習全站共用風格修改
 
-1. 開啟 WebSpec_學號/specs/site.md。
+1. 開啟 WebSpec_學號/pages/site.md。
 2. 選擇一項共用設定修改，例如主色、按鈕圓角或內文字級。
 3. 儲存後輸入：
 
 ```text
-我已修改 WebSpec_學號/specs/site.md 的共用設計。
-請依更新後的規格調整 WebPage_學號/multipage/ 下的網站。
+我已修改 WebSpec_學號/pages/site.md 的共用設計。
+請依更新後的規格調整 WebPage_學號/pages/ 下的網站。
 同步檢查三頁的共用樣式與手機版呈現，
 保留各頁內容，核對網站與規格一致，並說明修改項目。
 ```
