@@ -1,4 +1,4 @@
-# 多頁網站製作：由簡略大綱到詳細規格
+# 多頁網站製作一：由簡略大綱初步建立多頁網頁
 - 學號：(請務必填寫)
 - 姓名：(請務必填寫)
 - 信箱：(請務必填寫)
@@ -7,8 +7,6 @@
 
 - 修改網站簡略大綱，規劃自己的三頁網站。
 - 使用 AI 生成風格一致、可以互相連結的三頁網頁。
-- 使用 AI 逆向整理全站共用規格及各頁詳細規格。
-- 透過修改 Markdown 規格，更新網站內容。
 - 使用 Git 保存修改紀錄，將規格及網頁同步至 GitHub。
 
 > [!important]
@@ -18,29 +16,36 @@
 
 ## 操作流程
 
-### 一、開啟兩個儲存庫的上層資料夾
+### 一、GitHub登入：
+1. 登入(Sign in)：[https://github.com/signin](https://github.com/signin)
+   - 使用Google帳號：![](../images/ContinueWithGoogle.png)
 
-1. 確認電腦已安裝 VS Code、Git、AI 延伸模組及 Live Server，並完成 AI 工具登入。
-2. 確認兩個儲存庫已複製到同一個上層資料夾，例如：
-   - D:/Web/WebSpec_學號/
-   - D:/Web/WebPage_學號/
-3. 使用 VS Code「檔案 → 開啟資料夾」，開啟 D:/Web/。
-4. 確認檔案總管能同時看到 WebSpec_學號 與 WebPage_學號。
-5. 如果已有檔案修改，請先確認內容並提交；再分別同步兩個儲存庫的遠端變更。
-
-### 二、建立本次操作紀錄
-
-1. 將本流程檔放在 WebSpec_學號/works/multipage.md。
-2. 填寫本檔最上方的學號、姓名及信箱。
-3. 儲存檔案。
+### 二、使用VSCode複製GitHub上2個儲存庫Repo
+1. 使用 VS Code「檔案 → 開啟資料夾」，開啟資料夾：`D:\Web`
+2. 開啟終端機，輸入git指令，設定GitHub帳號資訊
+```shell
+git config --global user.email [輸入EMail信箱]
+```
+```shell
+git config --global user.name [輸入GitHub帳號]
+```
+3. 由GitHub複製Repo：WebSpec_學號、WebPage_學號
+- GitHub網址：https://github.com/(GitHub名稱)/WebSpec_學號
+- GitHub網址：https://github.com/(GitHub名稱)/WebPage_學號
+```shell
+git clone [貼上WebSpec網址]
+```
+```shell
+git clone [貼上WebPage網址]
+```
 
 ### 三、建立並修改網站簡略大綱 sitemap.md
 
-1. 建立 WebSpec_學號/specs/sitemap.md。
+1. 建立 WebSpec_學號/pages/sitemap.md。
 2. 複製以下範本，修改為自己的網站主題。
 3. 至少修改網站名稱、網站目的、目標對象、風格方向及三頁內容。
 4. 本次先統一使用 index.html、about.html、contact.html 三個檔名。
-5. 完成後儲存。此時尚不需要自行建立 site.md。
+5. 完成後儲存檔案。
 
 #### sitemap.md 範本
 
@@ -111,7 +116,7 @@
 - 圖片需要替代文字。
 
 ## 9. 輸出位置
-- 網頁資料夾：WebPage_學號/multipage/
+- 網頁資料夾：WebPage_學號/pages/
 - 三頁 HTML 放在同一層。
 - 共用 CSS：assets/css/site.css
 - 共用 JavaScript：assets/js/site.js（有需要時建立）
@@ -122,10 +127,11 @@
 ### 四、使用 AI 生成三頁網站
 
 1. 使用 VS Code 開啟 WebSpec_學號/pages/sitemap.md。
-2. 開啟 AI 側邊對話框。
+2. 開啟 AI 側邊對話框，進入 Codex　分頁。
 3. 將以下提示詞中的「學號」換成自己的學號，再送出：
 
 ```text
+以下學號為：[請填入自已的學號]
 請讀取 WebSpec_學號/pages/sitemap.md，
 依據網站架構、風格方向與各頁大綱建立三頁靜態網站。
 
@@ -147,7 +153,6 @@
 7. 不編造聯絡資訊，不使用不存在的圖片路徑。
 8. 若目標檔案已存在，先讀取再更新；保留其他作業資料夾。
 9. 完成後列出已做的檢查、尚待確認項目與示範文案。
-本次先建立網站，暫不建立詳細規格。
 ```
 
 4. 若工具要求操作權限，確認操作對象是本次規格及網頁資料夾後，再允許執行。
@@ -155,7 +160,7 @@
 
 ### 五、預覽並檢查三頁網站
 
-1. 在 multipage/index.html 上按右鍵，選擇「Open with Live Server」。
+1. 在 WebPage_學號/pages/index.html 上按右鍵，選擇「Open with Live Server」。
 2. 點擊導覽列，確認可以切換三個頁面並返回首頁。
 3. 逐頁檢查字體、顏色、按鈕、導覽列及頁尾是否一致。
 4. 縮小瀏覽器視窗，檢查手機選單、文字及圖片排列。
@@ -163,92 +168,7 @@
 6. 確認 AI 提供的示範文案，修改為自己想要的內容。
 7. 如有問題，請 AI 修正並重新預覽；確認後再進行下一步。
 
-### 六、使用 AI 逆向生成詳細規格
-
-1. 在 AI 對話框輸入以下提示詞，並替換學號：
-
-```text
-請讀取 WebPage_學號/pages/ 下的所有 HTML、
-共用 CSS 及 JavaScript，依實際完成的網站逆向整理詳細規格。
-
-請建立：
-1. WebSpec_學號/pages/site.md
-   記錄實際色碼、字體、字級、字重、行高、版面寬度、
-   間距、導覽列、頁尾、按鈕、卡片、手機版及共用互動規則。
-   包含共用檔案位置與各頁規格索引。
-
-2. WebSpec_學號/pages/index.md
-   記錄 index.html 的詳細規格。
-
-3. WebSpec_學號/pages/about.md
-   記錄 about.html 的詳細規格。
-
-4. WebSpec_學號/pages/contact.md
-   記錄 contact.html 的詳細規格。
-
-各頁規格須記錄：
-- 對應 HTML 的輸出位置
-- 依循 site.md 的說明
-- 區塊順序、實際文字、圖片路徑與替代文字
-- 排列方式、按鈕、連結目的地、互動及手機版呈現
-
-要求：
-- 共用設計集中在 site.md，各頁內容集中在對應分頁規格。
-- 規格須具體到足以支援後續修改網站。
-- 與原 sitemap.md 不一致的地方，另列差異供我確認。
-- 未完成的功能不可記為已完成。
-- 保留 sitemap.md，本次只整理規格，不修改網頁。
-```
-
-2. 確認 site.md 與三份分頁規格都已建立。
-3. 使用 VS Code「開啟側邊預覽」閱讀 Markdown。
-4. 對照網站確認文字、圖片、連結及區塊順序。
-5. 若有差異，確認預期內容後請 AI 修正。
-
-> [!note]
-> sitemap.md 保存初始大綱；site.md 管理共用詳細設計；
-> home.md、about.md、contact.md 管理各頁內容。
-> Markdown 是提供給 AI 閱讀的規格，瀏覽器實際載入的是 HTML、CSS 與 JavaScript。
-
-### 七、修改分頁規格，再更新網頁
-
-1. 開啟 WebSpec_學號/pages/index.md。
-2. 自行修改至少一段文字，並新增一個內容區塊，例如團隊介紹或品牌理念。
-3. 儲存規格檔案。
-4. 在 AI 對話框輸入：
-
-```text
-我已修改 WebSpec_學號/pages/index.md。
-請先讀取 WebSpec_學號/pages/site.md，
-再比對更新後的 index.md 與
-WebPage_學號/pages/index.html，
-依新規格更新原本網頁，只修改有差異的部分。
-
-沿用共用風格；若需新增專屬樣式，限定其作用範圍。
-若修改共用 CSS，請檢查對首頁與聯絡我們的影響。
-完成後核對規格與網頁一致，並說明修改項目。
-```
-
-5. 重新預覽，確認新增區塊及文字已更新。
-6. 此次直接更新 index.html，不必另存 index2.html。
-
-### 八、練習全站共用風格修改
-
-1. 開啟 WebSpec_學號/pages/site.md。
-2. 選擇一項共用設定修改，例如主色、按鈕圓角或內文字級。
-3. 儲存後輸入：
-
-```text
-我已修改 WebSpec_學號/pages/site.md 的共用設計。
-請依更新後的規格調整 WebPage_學號/pages/ 下的網站。
-同步檢查三頁的共用樣式與手機版呈現，
-保留各頁內容，核對網站與規格一致，並說明修改項目。
-```
-
-4. 逐頁確認三頁都已套用新的共用設定。
-5. 如果只修改單頁文字或區塊，不需要修改 site.md。
-
-### 九、提交並推送兩個儲存庫
+### 六、提交並推送兩個儲存庫
 
 1. 在 VS Code 原始檔控制中，分別選擇 WebSpec_學號 與 WebPage_學號。
 2. 檢查本次修改的檔案。
@@ -257,18 +177,14 @@ WebPage_學號/pages/index.html，
 5. 版本說明範例：
    - 建立三頁網站大綱
    - 完成三頁網站與共用樣式
-   - 整理共用及分頁詳細規格
-   - 依規格新增關於我們內容
 6. 到 GitHub 確認兩個儲存庫均已同步。
 
-### 十、填寫成果紀錄
+### 七、填寫成果紀錄
 
 - 網站主題：
 - WebSpec 儲存庫網址：
 - WebPage 儲存庫網址：
 - 網站展示網址（已啟用 GitHub Pages 者填寫）：
-- 本次修改的分頁規格：
-- 新增的內容區塊：
 - 修改的全站共用設定：
 - 遇到的問題及處理方式：
 
@@ -281,9 +197,6 @@ WebPage_學號/pages/index.html，
 - [ ] 導覽列可切換三頁，且目前頁面標示正確。
 - [ ] 字體、配色、按鈕、導覽列及頁尾一致。
 - [ ] 手機版可正常閱讀，選單可操作。
-- [ ] 已生成 site.md 與三份分頁詳細規格。
-- [ ] 已修改 about.md，並成功更新文字及新增區塊。
-- [ ] 已修改 site.md，並確認三頁共用樣式同步更新。
 - [ ] 已填寫成果紀錄。
 - [ ] 已將規格與網頁分別提交、推送，並在 GitHub 核對。
 
