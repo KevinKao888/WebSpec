@@ -44,6 +44,7 @@ git clone [貼上WebPage網址]
 1. 在 AI 對話框輸入以下提示詞，並替換學號：
 
 ```text
+以下學號為：[請填入自已的學號]
 請讀取 WebPage_學號/pages/ 下的所有 HTML、
 共用 CSS 及 JavaScript，依實際完成的網站逆向整理詳細規格。
 
