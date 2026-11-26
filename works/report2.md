@@ -32,13 +32,14 @@ git clone [貼上WebPage網址]
 
 ### 三、建立並修改期末上台報告 report2.md
 1. 建立 WebSpec_學號/reports/report2.md。
-2. 複製以下期末書面報告範本，於 report1.md 中貼上內容。
-3. 回答以下五個題目中，每個項目的問題。
+2. 複製以下期末上台報告範本，於 report2.md 中貼上內容。
+3. 填寫基本資料後，填寫簡報的網址連結。
 4. 完成後儲存檔案。
 5. 提交並推送該檔案。
+6. 登入 GitHub 平台後，檢查 WebSpec_學號/reports/report2.md 內容。
 
 ```markdown
-# 上台報告(20%)
+# 期末上台報告(20%)
 - 學號：
 - 姓名：
 - 信箱：
