@@ -181,12 +181,12 @@ git clone [貼上WebPage網址]
 
 ### 七、填寫成果紀錄
 
-- 網站主題：
-- WebSpec 儲存庫網址：
-- WebPage 儲存庫網址：
-- 網站展示網址（已啟用 GitHub Pages 者填寫）：
-- 修改的全站共用設定：
-- 遇到的問題及處理方式：
+- 網站主題：綠天咖啡
+- WebSpec 儲存庫網址：https://github.com/j1729108864/WebSpec_11515211
+- WebPage 儲存庫網址：https://github.com/j1729108864/WebPage_11515211
+- 網站展示網址（已啟用 GitHub Pages 者填寫）：https://www.ocu.edu.tw/
+- 修改的全站共用設定：Github
+- 遇到的問題及處理方式：遇錯就改
 
 ## 完成檢查
 
